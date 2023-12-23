@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Arbaj Ansari, a student graduating from IT Roorkee in 2025.
+- 👋 Hi, I'm Arbaj Ansari, a student graduating from IIT Roorkee in 2025.
 - 👀 I'm interested in full-stack development with a focus on frontend technologies.
 - 🌱 I'm currently learning and mastering GSAP.
 - 💻 My skills also include HTML, CSS, JavaScript, React, GSAP, Django, Node.js, Express, and SQL machine learning, deep learning, and Python libraries such as Matplotlib, NumPy, Pandas, and Scikit-learn.
