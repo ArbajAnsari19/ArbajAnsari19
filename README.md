@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/ArbajAnsari19" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/arbaj-ansari-iitr" target="blank">
 Arbaj Ansari</a></h1>
 <h3 align="center">A Full Stack Engineer from IIT Roorkee </h3>
 
@@ -28,7 +28,7 @@ Arbaj Ansari</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/ArbajAnsari19">
+        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/arbaj-ansari-iitr">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/ArbajAnsari19">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
