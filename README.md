@@ -15,7 +15,7 @@ Arbaj Ansari</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Agentic AI Development
+- 🌱 I’m currently learning Golang Development
 
 - 💬 Ask me about **Reactjs & Node Js**
 
