@@ -11,11 +11,11 @@ Arbaj Ansari</a></h1>
 </a>
 
 
-- 🌱 I’m currently Working with TypeScript and MERN Stack.
+- 🌱 I’m currently Working with Nodejs, Python and Golang.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Golang Development
+- 🌱 I’m currently learning AI Development
 
 - 💬 Ask me about **Reactjs & Node Js**
 
